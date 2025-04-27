@@ -1,8 +1,5 @@
 # Hi there, I'm Ruby 👋
 
-🎨 IT Student | UX/UI Designer-in-Training
-📍 Based in Brisbane, Australia
-
 ### About Me
 👽 Now crafting user experiences through thoughtful design
 📚 Currently studying IT + UX/UI at university
